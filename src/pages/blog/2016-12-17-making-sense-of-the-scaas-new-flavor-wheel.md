@@ -1,32 +1,38 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: 'Usability Testing Hack #1: Notability by Gingerlabs'
+date: 2017-08-28T21:04:10+10:00
+description: >-
+  Let’s face it, note taking during usability testing is hard. You can get so
+  wrapped up in being a notetaker that you have difficulty engaging the
+  participants or following up. You could also fail to capture important
+  comments because the pace of a discussion can be faster than your notetaking
+  speed.
 tags:
-  - flavor
-  - tasting
+  - Apps
+  - Usability Testing
+  - UX Design
+  - UX Research
+  - Measuring Usability
 ---
+![](/img/1_6cbx1gerxb9znfaew_9afa.png)
 
-![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+If you decide to rely solely on video or audio recording and not to take notes during the session, you must either listen to the recording and make notes or send the recording out for transcription which can be very expensive considering that there will not be useful insight in every second of it.
 
-## What the updates mean to you
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+One economical and less time consuming solution to that is time stamping at the time of occurrence of anything with notable significance (e.g. when the user is confused or frustrated, pressed the wrong button or gives an insightful opinion). That means after the completion of the session, you can quickly refer back to the timestamped points of the video or audio recording and analyse information.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Notability, the iOS app, seems to be the perfect tool for time stamping as well as note taking an much more. In Notability, you can audio record your session and draw, scribble or take notes simultaneously. That means you can audio record the session with Notability -as well as video record with any other tool if needed.
+
+
+
+![An Audio note in Notability with 3 bookmarks](/img/1_i2r96n3twjbpwwqcrzjo7g.png)
+
+_An Audio note in Notability with 3 bookmarks_
+
+To create a bookmark on the audio recording when the user does and says something notable, you can draw simple shapes, e.g. a little circle when the user is confused or a star when pressed the wrong button and so on. Once the recording is complete, you can have access to the audio files with the exact locations of the bookmarks you have created!
