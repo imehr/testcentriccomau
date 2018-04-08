@@ -6,9 +6,15 @@ description: TestCentric is a User Experience (UX) Research Consultant for Start
 offerings:
   blurbs:
     - image: /img/coffee.png
-      text: |
-        Problems we solve
-        sdf
+      text: |2+
+              Problems we solve
+                
+                Improve website or mobile app user experience
+                Which features should be in Minimum Viable Product (MVP)
+                Research & create user personas and profiles
+                Turn research into product and design requirements
+                Ethnographic Qualitative Research for startups
+
     - image: /img/coffee-gear.png
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
