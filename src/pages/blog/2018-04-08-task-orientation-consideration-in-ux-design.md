@@ -1,8 +1,11 @@
 ---
-templateKey: blog-post
+templateKey: article-page
 title: Task Orientation Consideration In UX Design
+slug: task-orientation-consideration-in-ux-design
 date: 2017-08-18T20:26:45+10:00
-description: >-
+cover: /img/1_amioge5qbce8zjkmm9a2xw.png
+meta_title: 'Usability Testing Hack #1: Notability by Gingerlabs'
+meta_description: >-
   Imagine you open an application with clickable memes and advertising banners
   here and there. What makes YOU click on one of them but your colleague in the
   office that has the same interests as yours simply ignores them? There could
@@ -14,9 +17,6 @@ tags:
   - UX
   - Design Thinking
 ---
-![Photo by William Iven](/img/1_amioge5qbce8zjkmm9a2xw.png)
-
-
 
 Your colleague has a purpose when she goes on smh.com.au, it’s the first Tuesday of the month and she wants to see if the interest rate has gone up or not. On the other hand, you just go to the same news website to let your mind wander with no particular goal or purpose after a lengthy meeting at work as a sort of a rest button.
 

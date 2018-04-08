@@ -1,8 +1,11 @@
 ---
-templateKey: blog-post
+templateKey: article-page
 title: 'Usability Testing Hack #1: Notability by Gingerlabs'
+slug: usability-testing-hack-no-1-notability-by-gingerlabs
 date: 2017-08-28T21:04:10+10:00
-description: >-
+cover: /img/1_6cbx1gerxb9znfaew_9afa.png
+meta_title: 'Usability Testing Hack #1: Notability by Gingerlabs'
+meta_description: >-
   Let’s face it, note taking during usability testing is hard. You can get so
   wrapped up in being a notetaker that you have difficulty engaging the
   participants or following up. You could also fail to capture important
@@ -15,7 +18,7 @@ tags:
   - UX Research
   - Measuring Usability
 ---
-![](/img/1_6cbx1gerxb9znfaew_9afa.png)
+
 
 
 

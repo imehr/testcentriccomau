@@ -1,8 +1,11 @@
 ---
-templateKey: blog-post
+templateKey: article-page
 title: 'Usability Testing Hack # 2: Mobile Observation'
+slug: usability-testing-hack-no-2-mobile-bservation
 date: 2017-09-15T13:04:10.000Z
-description: >-
+cover: /img/1_zo-c4lyumqnncjpd8j1ahg.jpeg
+meta_title: 'Usability Testing Hack #1: Notability by Gingerlabs'
+meta_description: >-
   Usability testing is the systematic observation of end users attempting to
   complete a task or set of tasks with your product based on representative
   scenarios. In individual sessions, participants interact with your product
@@ -14,7 +17,7 @@ tags:
   - UX Research
   - Measuring Usability
 ---
-![](/img/1_zo-c4lyumqnncjpd8j1ahg.jpeg)
+
 
 There are times when you want to observe usability testing live to get instant insight. If you are watching from another room, a screen or monitor is necessary to show what you are recording. But that means you need to dedicate a room with costly setup for observation only.
 

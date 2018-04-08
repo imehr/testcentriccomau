@@ -1,8 +1,11 @@
 ---
-templateKey: blog-post
+templateKey: article-page
 title: 'Experience vs Memory: What It Means to Designers'
+slug: experience-vs-memory-what-it-means-to-designers
 date: 2017-11-15T20:22:06+11:00
-description: >-
+cover: /img/1_jrv619tk2s8tduuh9a6f0g.jpeg
+meta_title: 'Usability Testing Hack #1: Notability by Gingerlabs'
+meta_description: >-
   Every designer’s ultimate goal is to create a product or service with the best
   user experience features . But when the users have a good experience, do they
   really remember it later on?
@@ -13,7 +16,7 @@ tags:
   - Design
   - Psychology
 ---
-![Photo by Austin Neill](/img/1_jrv619tk2s8tduuh9a6f0g.jpeg)
+
 
 Daniel Kahneman, a psychologist and founder of behavioural economics, explains in his Ted talk, that memory and experience are two different things. There is an experience self, who lives in the present and knows the present. There is also a remembering self that keeps some memories from experiences. And the remembering self is the one that keeps score, and maintains the story of our life.
 

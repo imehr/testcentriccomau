@@ -1,15 +1,22 @@
 ---
-templateKey: blog-post
+templateKey: article-page
 title: 'Brainstorming, Good or Bad?'
+slug: brainstorming-good-or-bad
 date: 2017-09-26T13:00:00.000Z
-description: >-
+cover: /img/1_odstheuu4epa2qe7bfvbxg.jpeg
+meta_title: 'Usability Testing Hack #1: Notability by Gingerlabs'
+meta_description: >-
   In a book titled Applied Imagination, which influenced many companies to adopt
   brainstorming, Osborn (1957) argued that the average person can think up twice
   as many ideas when working with a group than when working alone.
 tags:
-  - CreativitySocial PsychologyDesign ThinkingUser Experience
+  - Creativity
+  - Social Psychology
+  - Design Thinking
+  - UX Research
+  - User Experience
 ---
-![Photo by rawpixel.com](/img/1_odstheuu4epa2qe7bfvbxg.jpeg)
+
 
 Osborn defines brainstormings as the process for generating creative ideas and solutions through intensive and freewheeling group discussion. Every participant is encouraged to think aloud and suggest as many ideas as possible, no matter how bizarre.
 
