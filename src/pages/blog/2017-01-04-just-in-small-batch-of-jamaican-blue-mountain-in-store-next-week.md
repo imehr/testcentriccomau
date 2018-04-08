@@ -1,17 +1,18 @@
 ---
 templateKey: blog-post
 title: 'Usability Testing Hack # 2: Mobile Observation'
-date: 2017-09-15T23:04:10+10:00
+date: 2017-09-15T13:04:10.000Z
 description: >-
   Usability testing is the systematic observation of end users attempting to
   complete a task or set of tasks with your product based on representative
   scenarios. In individual sessions, participants interact with your product
   (e.g.,prototype launched product) as they think aloud.
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - Apps
+  - Usability Testing
+  - UX Design
+  - UX Research
+  - Measuring Usability
 ---
 ![](/img/1_zo-c4lyumqnncjpd8j1ahg.jpeg)
 
