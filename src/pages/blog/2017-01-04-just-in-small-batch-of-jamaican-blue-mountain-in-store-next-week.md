@@ -1,33 +1,46 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+templateKey: blog-post
+title: 'Usability Testing Hack # 2: Mobile Observation'
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Usability testing is the systematic observation of end users attempting to
+  complete a task or set of tasks with your product based on representative
+  scenarios. In individual sessions, participants interact with your product
+  (e.g.,prototype launched product) as they think aloud.
 tags:
   - jamaica
   - green beans
   - flavor
   - tasting
 ---
+![](/img/1_zo-c4lyumqnncjpd8j1ahg.jpeg)
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+There are times when you want to observe usability testing live to get instant insight. If you are watching from another room, a screen or monitor is necessary to show what you are recording. But that means you need to dedicate a room with costly setup for observation only.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
 
-## A little history
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+[Luna Display](https://www.kickstarter.com/projects/767721702/luna-display), a Kickstarter project seems to be a great solution for that!
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+![Luna Display](/img/1_0bmthbbea8krlzcaz4lobq.jpeg)
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+It is a hardware solution that turns any iPad into a, wireless second display.
 
-## What you need to know before trying
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+Luna Display extends your Mac desktop to your iPad, creating a wireless second monitor ( which can be a duplicate of your first screen as well) and works with your existing Wi-Fi.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+
+
+That means you can literally observe the usability testing from anywhere within the Wi-Fi range with no need for a dedicated observation room or expensive setups.
+
+
+
+If you already have a TV in your observation room, Apple TV and Chromecast are two other cheap alternatives for mirroring/broadcasting.
+
+
+
+Unfortunately none of the above solutions support audio, but there are ways around that which I am going to cover in the next article.
+
+
+
+As far as screen extension is concerned (not for usability testing), Luna Display acts as a complete extension to your Mac, allowing you to use it directly from your iPad with full support for external keyboards, Apple Pencil, and touch interactions. It literally turns your Mac into a touchable device, allowing pinching, panning and tapping… making it much more than just a second screen!
