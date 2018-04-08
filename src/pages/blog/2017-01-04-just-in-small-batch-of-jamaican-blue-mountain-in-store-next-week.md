@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Usability Testing Hack # 2: Mobile Observation'
-date: 2017-01-04T15:04:10.000Z
+date: 2017-09-15T23:04:10+10:00
 description: >-
   Usability testing is the systematic observation of end users attempting to
   complete a task or set of tasks with your product based on representative
