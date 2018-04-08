@@ -1,14 +1,13 @@
 ---
 templateKey: blog-post
 title: 'Brainstorming, Good or Bad?'
-date: 2017-09-26T23:00:00+10:00
+date: 2017-09-26T13:00:00.000Z
 description: >-
   In a book titled Applied Imagination, which influenced many companies to adopt
   brainstorming, Osborn (1957) argued that the average person can think up twice
   as many ideas when working with a group than when working alone.
 tags:
-  - brewing
-  - chemex
+  - CreativitySocial PsychologyDesign ThinkingUser Experience
 ---
 ![Photo by rawpixel.com](/img/1_odstheuu4epa2qe7bfvbxg.jpeg)
 
