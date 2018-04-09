@@ -23,7 +23,7 @@ offerings:
         improvements, especially when time or resources are critical factors.
         It’s the fastest and cheapest method to spot key usability issues and
         gain insights on how to fix them.
-    - image: /img/meeting-space.png
+    - image: /img/tile-1.png
       text: >-
         In an always-on, always connected world, user experience testing helps
         you reach more customers and generate greater use by ensuring quick and
