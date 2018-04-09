@@ -11,7 +11,7 @@ offerings:
         are and their goals, tasks, context of use and beliefs that reveal the
         reasons why and how they engage with your products and your services,
         not just their demographics.
-    - image: /img/coffee-gear.png
+    - image: /img/tile-3.png
       text: >-
         We delve deeper to find out why and how your user use, troubleshoot and
         upgrade. Our approach delivers deep insights that are actionable,
