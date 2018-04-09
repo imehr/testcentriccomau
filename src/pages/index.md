@@ -29,21 +29,13 @@ offerings:
         you reach more customers and generate greater use by ensuring quick and
         easy access to the products, information and resources most important to
         them.
-testimonials:
-  - author: Vaibhav Sharma
-    quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
-      diam luctus pretium. Sed quis egestas libero. Vestibulum nec venenatis
-      ligula.
-  - author: Subarashi San
-    quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
-      dignissim ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+testimonials: []
 meta_title: Home | TestCentric
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  We observe your users to deliver rich insights into their needs, expectations
+  and preferences. Often used before new product development to de-risk the
+  experience design, ethnographic research can help you develop robust new
+  strategies to increase effectiveness and uptake, identify user segments not
+  being well served by your current product.
 ---
 
