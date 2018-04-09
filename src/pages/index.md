@@ -5,7 +5,7 @@ heading: User experience research helps teams build better products on smaller b
 description: TestCentric is a User Experience (UX) Research Consultant for Startups
 offerings:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/tile-4.png
       text: >-
         Our ethnographic research helps you understand who your user segments
         are and their goals, tasks, context of use and beliefs that reveal the
