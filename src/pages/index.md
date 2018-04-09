@@ -17,7 +17,7 @@ offerings:
         upgrade. Our approach delivers deep insights that are actionable,
         powerful and relevant to your product experience – important guidance to
         help you retain your users and gain new ones.
-    - image: /img/tutorials.png
+    - image: /img/tile-2.png
       text: >-
         We recommend a usability review for product updates or website
         improvements, especially when time or resources are critical factors.
