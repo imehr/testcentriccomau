@@ -6,27 +6,17 @@ description: TestCentric is a User Experience (UX) Research Consultant for Start
 offerings:
   blurbs:
     - image: /img/coffee.png
-      text: |2+
-              Problems we solve
-                
-                Improve website or mobile app user experience
-                Which features should be in Minimum Viable Product (MVP)
-                Research & create user personas and profiles
-                Turn research into product and design requirements
-                Ethnographic Qualitative Research for startups
-
+      text: >-
+        Our ethnographic research helps you understand who your user segments
+        are and their goals, tasks, context of use and beliefs that reveal the
+        reasons why and how they engage with your products and your services,
+        not just their demographics.
     - image: /img/coffee-gear.png
-      text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi.
-        Nam ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque
-        luctus neque id mauris accumsan, nec imperdiet justo eleifend. Nulla
-        viverra, ipsum sit amet interdum pharetra, felis lorem sollicitudin
-        felis, vehicula finibus enim nunc facilisis sapien. Donec nulla nisi,
-        dictum quis nibh et, euismod semper eros. Praesent nunc tortor,
-        consequat eu justo ac, dictum viverra enim. Etiam sed dui dapibus mauris
-        congue facilisis. Nulla convallis, lectus vel vehicula interdum, turpis
-        nunc aliquet sem, ac iaculis ligula mauris id tortor. Sed eget ornare
-        orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
+      text: >-
+        We delve deeper to find out why and how your user use, troubleshoot and
+        upgrade. Our approach delivers deep insights that are actionable,
+        powerful and relevant to your product experience – important guidance to
+        help you retain your users and gain new ones.
     - image: /img/tutorials.png
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus
